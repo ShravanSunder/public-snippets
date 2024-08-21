@@ -1,4 +1,4 @@
-# Inprocess Workflow Framework
+# In-process Workflow Framework
 
 The Workflow framework is a useful system creating structured, event-driven workflows in Python.  This is a inprocess non distributed workflow system with retries, waits for external asyncronous tasks and fully async steps.  
 
