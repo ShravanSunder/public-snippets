@@ -5,4 +5,4 @@ Some public snippets of code that I've written extracted from private repos.
 
 ## Profile Links
 - [Linkedin Profile](https://www.linkedin.com/in/shravansunder/)
-- My [Github Profile](https://github.com/ShravanSunder) has more information on my open source projects i've worked on.
+- [Github Profile](https://github.com/ShravanSunder) has more information on my open source projects i've worked on.
